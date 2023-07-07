@@ -1,0 +1,116 @@
+h1{
+    padding: 5px 180px 5px 5px;
+}
+
+h2{
+    font-size: 25px;
+    text-align: left;
+    margin-top: -25px;
+    padding: 5px 180px 5px 5px;
+    font-weight: 1;
+}
+
+.details{
+            text-align: center;
+            border-radius: 10px;
+            margin: 100px 550px;
+            background-color: rgb(250, 248, 248);
+}
+
+
+#contact-user{
+    margin: 10px  50px 10px 5px;
+            border-radius: 5px;
+           padding: 5px 225px 5px 3px;
+           text-align: left;
+
+           
+
+            
+}
+
+#pswd-user{
+    margin: 10px  50px 10px 5px;
+            border-radius: 5px;
+           padding: 5px 225px 5px 3px;
+           text-align: left;
+}
+
+
+
+#sign{
+    margin: 20px 100px ;
+    font-weight: 900;
+    padding: 10px 30px 10px 30px;
+    border-radius: 7px;
+    color: white;
+    background-color: rgb(6, 189, 6);
+    margin-bottom: 10px;
+    
+    
+    
+
+}
+
+#first{
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 10px 10px 10px 1px;
+    
+}
+
+#last{
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 10px 1px 10px 33px;
+}
+
+#male{
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    margin: 0px 10px 0px -10px;
+    padding: 5px 5px;
+}
+
+#female{
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 5px 5px;
+    margin: 0px 50px 0px 40px;
+}
+
+#custom{
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 0px 0px 0px -20px;
+}
+
+#years{
+    border: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 0px 0px 0px 10px;
+}
+
+#months{
+    border: solid;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 10px 10px;
+    margin: 0px 10px 0px 10px;
+    
+}
+
+#days{
+    border: solid;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 0px 10px 0px -100px;
+    padding: 5px 5px;
+}
+

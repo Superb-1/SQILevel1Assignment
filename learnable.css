@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    border: solid darkgray;
+    background-color: rgb(10, 62, 97);
+}
+
+#logos{
+    margin-left: 300px;
+}
+
+a[href="#"]{
+    margin-left: 500px;
+    margin-bottom: 150px;
+    margin-right: 10px;
+    color: white;
+    
+}
+
+a[href="who.int"]{
+    color: white;
+}
+
+#access{
+   
+    margin-left: 100px;
+    padding-bottom: 10px;
+    
+}
+
+.show{
+    margin: 2px 250px;
+}
+
+.trans{
+    padding-bottom: 300px;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(background.jpg);  
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 1550px 600px;
+    /* enable-background: initial; */
+    /* border: solid rgb(8, 8, 8); */
+    /* background-color: rgb(19, 18, 18); */
+    background-position: left;
+    /* opacity: 0.8; */
+    text-align: center;
+    /* color: saddlebrown; */
+    margin-top: -90px;
+
+}
+
+p[id="pr"]{
+    padding-top: 400px;
+    color: rgb(255, 0, 0);
+    font-size: 100px;
+    font-weight: 900;
+    }
+
+p[id="subs"]{
+    text-align: center;
+    border: solid blue;
+}
+
+.hh2{
+    margin-top: -60px;
+    text-align: center;
+    color: gray;
+    line-height: 50px;
+}
